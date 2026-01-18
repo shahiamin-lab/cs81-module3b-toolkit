@@ -1,4 +1,19 @@
-# Predictions
+# Predictions – Math Toolkit Functions
 
 ## double(n)
-I predict that double(5) will return 10.
+Prediction: double(5) → 10
+
+## square(n)
+Prediction: square(4) → 16
+
+## isEven(n)
+Prediction: isEven(7) → false
+
+## isOdd(n)
+Prediction: isOdd(3) → true
+
+## multiply(a, b)
+Prediction: multiply(3, 4) → 12
+
+## subtract(a, b)
+Prediction: subtract(10, 3) → 7
